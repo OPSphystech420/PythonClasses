@@ -1,8 +1,3 @@
-# PythonClasses
-<!DOCTYPE html>
-<html class="client-nojs" lang="ru" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
 <title>Практикум Python (ПМФ) — Public ATP Wiki</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
 <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Практикум_Python_(ПМФ)","wgTitle":"Практикум Python (ПМФ)","wgCurRevisionId":1532,"wgRevisionId":1532,"wgArticleId":111,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgMonthNamesShort":["","янв","фев","мар","апр","май","июн","июл","авг","сен","окт","ноя","дек"],"wgRelevantPageName":"Практикум_Python_(ПМФ)","wgRelevantArticleId":111,"wgRequestId":"ec194207b57ca1d0eb2247e0","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"preview":false,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1dzjbvu",function($,jQuery,require,module){mw.user.options.set({"variant":"ru"});});mw.loader.implement("user.tokens@1goov5q",function ( $, jQuery, require, module ) {
@@ -30,10 +25,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 									<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">Материал из Public ATP Wiki</div>
 								<div id="contentSub"></div>
-												<div id="jump-to-nav" class="mw-jump">
-					Перейти к:					<a href="#mw-head">навигация</a>, 					<a href="#p-search">поиск</a>
-				</div>
-				<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc"><div class="toctitle"><h2>Содержание</h2></div>
+
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#.D0.9E.D0.B1.D1.89.D0.B8.D0.B5_.D1.81.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D1.8F"><span class="tocnumber">1</span> <span class="toctext">Общие сведения</span></a>
 <ul>
