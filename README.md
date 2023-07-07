@@ -1,31 +1,13 @@
-<title>Практикум Python (ПМФ) — Public ATP Wiki</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Практикум_Python_(ПМФ)","wgTitle":"Практикум Python (ПМФ)","wgCurRevisionId":1532,"wgRevisionId":1532,"wgArticleId":111,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgMonthNamesShort":["","янв","фев","мар","апр","май","июн","июл","авг","сен","окт","ноя","дек"],"wgRelevantPageName":"Практикум_Python_(ПМФ)","wgRelevantArticleId":111,"wgRequestId":"ec194207b57ca1d0eb2247e0","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"preview":false,"publish":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1dzjbvu",function($,jQuery,require,module){mw.user.options.set({"variant":"ru"});});mw.loader.implement("user.tokens@1goov5q",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
 
-});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/load.php?debug=false&amp;lang=ru&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/load.php?debug=false&amp;lang=ru&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<meta name="generator" content="MediaWiki 1.30.0"/>
-<link rel="shortcut icon" href="/favicon.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Public ATP Wiki (ru)"/>
-<link rel="EditURI" type="application/rsd+xml" href="http://wiki.atp-fivt.org/api.php?action=rsd"/>
-<link rel="alternate" type="application/atom+xml" title="Public ATP Wiki — Atom-лента" href="/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
-<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js?40bd4"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Практикум_Python_ПМФ rootpage-Практикум_Python_ПМФ skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-						<div class="mw-indicators mw-body-content">
 </div>
 			<h1 id="firstHeading" class="firstHeading" lang="ru">Практикум Python (ПМФ)</h1>
 									<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">Материал из Public ATP Wiki</div>
 								<div id="contentSub"></div>
-
+												<div id="jump-to-nav" class="mw-jump">
+												</div>					
+				</div>
+				<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc"><div class="toctitle"><h2>Содержание</h2></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#.D0.9E.D0.B1.D1.89.D0.B8.D0.B5_.D1.81.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D1.8F"><span class="tocnumber">1</span> <span class="toctext">Общие сведения</span></a>
 <ul>
@@ -188,3 +170,30 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <li> Кротов Андрей</li>
 <li> Омирзак Дастан</li>
 <li> Прохорчук Екатерина</li></ul></li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20230707101623
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.008 seconds
+Real time usage: 0.008 seconds
+Preprocessor visited node count: 38/1000000
+Preprocessor generated node count: 44/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key pi_wiki-wiki:pcache:idhash:111-0!canonical and timestamp 20230707101623 and revision id 1532
+ -->
+</div>					<div class="printfooter">
+						Источник — «<a dir="ltr" href="http://wiki.atp-fivt.org/index.php?title=Практикум_Python_(ПМФ)&amp;oldid=1532">http://wiki.atp-fivt.org/index.php?title=Практикум_Python_(ПМФ)&amp;oldid=1532</a>»					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		
